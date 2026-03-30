@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ========================================== -->
+<!-- HOMUNCULUS OS CORE PALETTE                 -->
+<!-- ========================================== -->
+<resources>
+    <!-- The Void (Absolute AMOLED Black to save battery and blind the UI) -->
+    <color name="background_dark">#000000</color>
+    <color name="background_floating_material_dark">#000000</color>
+    <color name="primary_dark_material_dark">#000000</color>
+    <color name="primary_material_dark">#000000</color>
+
+    <!-- The Ultraviolet Accents (Radioactive Purple/Blue) -->
+    <color name="accent_material_dark">#3F00FF</color>
+    <color name="accent_material_light">#3F00FF</color>
+    <color name="colorAccent">#5A00FF</color>
+    <color name="system_accent1_500">#3F00FF</color>
+    <color name="system_accent2_500">#5A00FF</color>
+
+    <!-- The Dead Terminal (Muted grays for standard text so the purple pops) -->
+    <color name="primary_text_default_material_dark">#A9A9A9</color>
+    <color name="secondary_text_default_material_dark">#696969</color>
+    
+    <!-- Slamcore Warnings (Violent Red for errors or root warnings) -->
+    <color name="error_color_material_dark">#8B0000</color>
+</resources>
